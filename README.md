@@ -12,7 +12,7 @@ O código é visualizado em tempo real via `pygame`, e permite observar como peq
 
 ## 📜 Artigo científico
 
-O artigo completo, está disponível neste repositório e pode ser acessado [clicando aqui]([./Modelagem%20do%20Espalhamento%20de%20Fake%20News%20com%20Influenciadores%20Usando%20Aut%C3%B4matos%20Celulares%20(2).docx](https://docs.google.com/document/d/1mTl3mV5xawkhunzX1mf7nLfc9xXROGQ9tsemi4RiYoY/edit?usp=sharing)).
+O artigo completo, está disponível neste repositório e pode ser acessado [clicando aqui](https://github.com/Yago-Ferraz/-Espalhamento-de-Fake-News-com-Influencers-e-Resist-ncia-Social-Usando-Aut-matos-Celulares/blob/main/Modelagem%20do%20Espalhamento%20de%20Fake%20News%20com%20Influenciadores%20Usando%20Aut%C3%B4matos%20Celulares%20(3).docx).
 
 
 ## 🔬 Por que este projeto é relevante?
