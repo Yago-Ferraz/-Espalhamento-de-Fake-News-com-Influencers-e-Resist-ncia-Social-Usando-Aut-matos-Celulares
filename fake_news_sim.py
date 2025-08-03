@@ -17,7 +17,7 @@ initial_infected = 10
 delay_max = 3
 
 # Influencers
-influencer_count = 120
+influencer_count = 400
 influencer_positions = []
 influencer_break_resistance_chance = 0.7
 
