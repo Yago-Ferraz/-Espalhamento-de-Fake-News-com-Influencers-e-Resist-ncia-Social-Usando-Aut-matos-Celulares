@@ -1,4 +1,4 @@
-````markdown
+
 # 🧠 Modelagem do Espalhamento de Fake News com Influencers e Resistência Social Usando Autômatos Celulares
 
 Este projeto apresenta uma simulação baseada em autômatos celulares para modelar o espalhamento de fake news em redes sociais. Desenvolvido no contexto disciplinar de **Autômatos Celulares** , o modelo combina elementos de redes sociais e dinâmica de contágio para observar fenômenos como:
@@ -98,4 +98,3 @@ Isso executará simulações com múltiplas combinações de parâmetros e salva
 ├── apendice/             # Contém os gráficos estáticos e interativos
 ├── requirements.txt      # Dependências (pygame, numpy, plotly, etc.)
 └── modelagem....pdf           # Artigo científico com descrição e análise do modelo
-```
