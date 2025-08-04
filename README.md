@@ -13,7 +13,7 @@ O sistema é visualizado com `pygame` em tempo real, e também permite gerar **g
 
 ## 📜 Artigo científico
 
-O artigo completo, em formato acadêmico, está disponível neste repositório e pode ser acessado [clicando aqui](https://github.com/Yago-Ferraz/-Espalhamento-de-Fake-News-com-Influencers-e-Resist-ncia-Social-Usando-Aut-matos-Celulares/blob/main/Modelagem%20do%20Espalhamento%20de%20Fake%20News%20com%20Influenciadores%20Usando%20Aut%C3%B4matos%20Celulares%20(3).docx).
+O artigo completo, em formato acadêmico, está disponível neste repositório e pode ser acessado [clicando aqui](https://github.com/Yago-Ferraz/-Espalhamento-de-Fake-News-com-Influencers-e-Resist-ncia-Social-Usando-Aut-matos-Celulares/blob/7bbe4cddf12b6e868d83dab398314ed93e4a83b7/Modelagem%20do%20Espalhamento%20de%20Fake%20News%20com%20Influenciadores%20Usando%20Aut%C3%B4matos%20Celulares.pdf).
 
 Ele apresenta os fundamentos do modelo, os experimentos realizados e uma análise comparativa entre o impacto dos influenciadores e a resistência social na propagação da fake news.
 
